@@ -12,6 +12,9 @@ Lectures were also delivered by the DSFP leadership team:
 - Dr. Adam Miller (CIERA | Northwestern)
 - Dr. Bryan Scott (CIERA | Northwestern) 
 
+Authors:
+- Ekaterine & Audrey
+
 # Schedule
 
 ## Day 0 – The Beginning | Introduction for the New Cohort
