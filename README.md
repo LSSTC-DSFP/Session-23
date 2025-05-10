@@ -13,7 +13,7 @@ Lectures were also delivered by the DSFP leadership team:
 - Dr. Bryan Scott (CIERA | Northwestern) 
 
 Authors:
-- Ekaterine & Audrey
+- Ekaterine & Audrey.
 
 # Schedule
 
