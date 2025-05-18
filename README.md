@@ -17,6 +17,8 @@ Lectures were also delivered by the DSFP leadership team:
 
 ## Day 0 – The Beginning | Introduction for the New Cohort
 
+[**LOCATION:** Allen Hall Room 321, Department of Physics and Astronomy, 3941 O'Hara St, Pittsburgh, PA 15206](https://maps.app.goo.gl/hLwA4LBJWo2RjPfi8)
+
 "Now Look to the future and claim the prize ahead."
 
 ~ Jacqueline M. Hughes-Oliver 
@@ -31,13 +33,17 @@ Three orientation lectures are provided asynchronously, these are:
 Sunday, May 18, 2025 
 
 * 10:30 AM - 11:00 AM Registration & Introductions
-* 11:00 AM - 11:30 AM New Fellow Survey | 
-* 11:30 AM - 12:00 PM Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time
-* 12:00 PM - 1:00 PM LUNCH | Code of Conduct Discussion (TBD) 
-* 01:00 PM - 03:00 PM Overview of Supervised and Unsupervised Machine Learning
+* 11:00 AM - 11:30 AM New Fellow Survey 
+* 11:30 AM - 12:15 PM Code of Conduct Discussion 
+* 12:15 PM - 01:00 PM LUNCH (return with your lunch)
+* 01:00 PM - 01:15 PM Tips from a Past DSFP Fellow; M Newsome
+* 01:15 PM - 1:45 PM  Introduction to the Vera C Rubin Observatory and Legacy Survey of Space & Time; B Scott
+* 01:30 PM - 03:00 PM [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/orientation/DSFP_Session_23_ML_Orientation_problem_version.ipynb) Overview of Supervised and Unsupervised Machine Learning; B Scott
 * 03:00 PM - ??? Break
  
 ## Day 1 – Bayes or Bust? | (Probability and Introduction to Bayes)
+
+[**LOCATION:** Barco Law Building Room 109, 3900 Forbes Avenue, Pittsburgh, PA 15260](https://maps.app.goo.gl/sE8775jDYRtaSjPt8)
 
 "When the Facts Change, I change my mind. What do you do, sir?"
 
@@ -101,7 +107,7 @@ Wednesday, May 21, 2025
 
 -- 
 
-Thursday, May 23, 2025 
+Thursday, May 22, 2025 
 * 09:00 AM – 10:00 AM o [Probabilistic Graphical Models](Day4/); C Schafer
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  [Problem](Day4/): [Solutions](Day4/); Probabilistic Graphical Models; C Schafer 
@@ -119,7 +125,7 @@ Thursday, May 23, 2025
 
 --  
 
-Friday, May 24, 2025
+Friday, May 23, 2025
 * 9:00 AM - 9:45 AM o [Intractable Posteriors](Day5/); G Gilbert
 * 09:45 AM – 10:45 AM o [Problem](Day5/) [Solution](Day5/); Intractable Posteriors G Gilbert
 * 10:45 AM – 11:00 AM o BREAK 
