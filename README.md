@@ -59,8 +59,8 @@ Monday May 19, 2025
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM – 12:00 PM o  [Problem](Day1/)| [Solution](Day1/): Introduction to Probability and its Applications, B Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o  [Understanding Data, Optimization, and Classical Inference](Day1/) A Miller  
-* 02:30 PM – 03:30 PM o  [Problem](Day1/) | [Solution](Day1/): Optimization; A Miller  
+* 01:30 PM – 02:30 PM o  [Understanding Data, Optimization, and Classical Inference](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day1/ConnectingModelsAndData.ipynb) A Miller  
+* 02:30 PM – 03:30 PM o  [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day1/MaximumLikelihoodEstimation.ipynb)| [Solution](Day1/): Optimization; A Miller  
 * 03:30 PM – 04:00 PM o Break 
 * 04:00 PM – 05:00 PM o Introduction to Intro Bayes; S Biscoveanu
 * 05:00 PM – 06:00 PM o  [Problem](Day1/) | [Solution](Day1/): Intro Bayes; S Biscoveanu
