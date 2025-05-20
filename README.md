@@ -55,9 +55,9 @@ Monday May 19, 2025
 
 * 08:30 AM – 09:00 AM o Registration 
 * 09:00 AM – 09:45 AM o Meet the new cohort
-* 09:45 AM – 10:30 AM o  [Introduction to Probability and its Applications](Day1/), B Scott 
+* 09:45 AM – 10:30 AM o  [Introduction to Probability and its Applications](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day1/Probability_and_applications_DSFP_Session_23.ipynb), B Scott 
 * 10:30 AM – 11:00 AM o Break 
-* 11:00 AM – 12:00 PM o  [Problem](Day1/)| [Solution](Day1/): Introduction to Probability and its Applications, B Scott 
+* 11:00 AM – 12:00 PM o  [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day1/Introduction%20to%20Probability%20Problems%20Session%2023%20(no%20solutions).ipynb)| [Solution](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day1/Introduction%20to%20Probability%20Problems%20Session%2023.ipynb): Introduction to Probability and its Applications, B Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
 * 01:30 PM – 02:30 PM o  [Understanding Data, Optimization, and Classical Inference](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day1/ConnectingModelsAndData.ipynb) A Miller  
 * 02:30 PM – 03:30 PM o  [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day1/MaximumLikelihoodEstimation.ipynb)| [Solution](Day1/): Optimization; A Miller  
@@ -82,7 +82,8 @@ Tuesday, May 20, 2025
 * 12:00 PM - 01:30 PM o LUNCH 
 * 01:30 PM - 03:00 PM o [Problem](Day2/) | [Solution](Day2/): Model Comparison and Misspecification; S Biscovenau 
 * 03:00 PM - 04:00 PM o [Priors, Likelihoods, Posteriors, and all that](Day2/); B Scott  
-* 04:00 PM - 04:30 PM o BREAK 
+* 04:00 PM - 04:15 PM o Session Photo on Cathedral of Learning Steps
+* 04:15 PM - 04:45 PM o BREAK
 * 04:30 PM - 05:30 PM o [Problem](Day2/) | [Solution](Day2/): Priors, Likelihoods, Posteriors, and all that; B Scott
  
 ## Day 3 — Advanced Sampling Techniques
