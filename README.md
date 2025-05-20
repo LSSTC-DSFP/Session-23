@@ -64,7 +64,7 @@ Monday May 19, 2025
 * 03:30 PM – 04:00 PM o Break 
 * 04:00 PM – 05:00 PM o Introduction to Intro Bayes; S Biscoveanu
 * 05:00 PM – 06:00 PM o  [Problem](Day1/) | [Solution](Day1/): Intro Bayes; S Biscoveanu
-* 07:00 PM - ??:?? PM o Dinner at [The Porch](https://www.dineattheporch.com) 
+* 06:45 PM - ??:?? PM o Dinner at [The Porch](https://www.dineattheporch.com) 
 
  
 ## Day 2 – Intro to Sampling, Model building, and Inference
