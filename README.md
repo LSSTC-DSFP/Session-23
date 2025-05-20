@@ -76,15 +76,15 @@ Monday May 19, 2025
 -- 
 
 Tuesday, May 20, 2025
-* 09:00 AM - 10:30 AM o [Problem](Day2/) | [Solution](Day2/) Metroplis Hasting Sampling; A Miller
+* 09:00 AM - 10:30 AM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/MetropolisHastings.ipynb)| [Solution](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/MetropolisHastingsSolutions.ipynb) Metroplis Hasting Sampling; A Miller
 * 10:30 AM - 11:00 AM o Break
 * 11:00 AM - 12:00 PM o [Model Comparison and Misspecification](Day2/); S Biscoveanu 
 * 12:00 PM - 01:30 PM o LUNCH 
-* 01:30 PM - 03:00 PM o [Problem](Day2/) | [Solution](Day2/): Model Comparison and Misspecification; S Biscovenau 
+* 01:30 PM - 03:00 PM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/Model%20selection%20and%20misspecification.ipynb) | [Solution](Day2/): Model Comparison and Misspecification; S Biscovenau 
 * 03:00 PM - 04:00 PM o [Priors, Likelihoods, Posteriors, and all that](Day2/); B Scott  
 * 04:00 PM - 04:15 PM o Session Photo on Cathedral of Learning Steps
 * 04:15 PM - 04:45 PM o BREAK
-* 04:30 PM - 05:30 PM o [Problem](Day2/) | [Solution](Day2/): Priors, Likelihoods, Posteriors, and all that; B Scott
+* 04:45 PM - 05:45 PM o [Problem](Day2/) | [Solution](Day2/): Priors, Likelihoods, Posteriors, and all that; B Scott
  
 ## Day 3 — Advanced Sampling Techniques
 
